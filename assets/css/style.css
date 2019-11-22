@@ -4,6 +4,8 @@ body {
 }
 
 body {
+  background-color: black;
+  background-repeat: no-repeat;
   text-align: center;
   background-image: url("../images/bellmedia-971530-Full-Image_GalleryBackground-en-CA-1557993035222._Vd2Pp4XvQP0cCiQq3twVbSa6AL8tbK3fz_SX1080_.jpg");
 }
@@ -14,7 +16,8 @@ body {
   box-sizing: border-box;
   padding: 5% 0;
   margin: 5% auto;
-  background-color: #fff17a;
+  background-color: darkgray;
+  opacity: 0.5;
 }
 
 #sub-wrapper {
@@ -35,7 +38,7 @@ button {
 
 h1 {
   margin-bottom: 50px;
-  font-family: Geo, sans-serif;
+  font-family: Gent, ;
   font-size: 6.5em;
   font-weight: bold;
   color: blue;
@@ -65,3 +68,4 @@ button:hover {
   background: pink;
   border: 2px solid blue;
 }
+
