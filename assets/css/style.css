@@ -16,7 +16,7 @@ body {
   box-sizing: border-box;
   padding: 5% 0;
   margin: 5% auto;
-  background-color: darkgray;
+  background-color: rgb(85, 85, 85);
   opacity: 0.5;
 }
 
@@ -38,10 +38,10 @@ button {
 
 h1 {
   margin-bottom: 50px;
-  font-family: Gent, ;
+  font-family: "Gentium Book Basic", sans-serif; 
   font-size: 6.5em;
   font-weight: bold;
-  color: blue;
+  color: black;
 }
 
 h2 {
@@ -58,6 +58,8 @@ h3 {
   margin-top: 10%;
   background: pink;
   border: 2px solid blue;
+  font-family: Gentium Book Basic, sans-serif; 
+
 }
 
 #quiz-area h2 {
